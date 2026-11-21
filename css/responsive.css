@@ -1,0 +1,184 @@
+
+
+@media (max-width: 1200px) {}
+
+@media (max-width: 1024px) {}
+
+@media (max-width: 991px) {
+  .drem-hotel p {
+    font-size: 12px;
+  }
+  ul.Opening-hours li:before {
+    right: 91px;
+    width: 37px;
+  }
+  .footer-about ul li {
+    padding: 0px 5px 0 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .slider-text h2 {
+    font-size: 39px;
+    line-height: 47px;
+  }
+  .our-story p {
+    font-size: 14px;
+  }
+  .hot-clints p {
+    max-width: 100%;
+  }
+  .best-gest {
+    margin-bottom: 30px;
+  }
+  .make-text h2 {
+    font-size: 25px;
+  }
+  .make-text p {
+    font-size: 14px;
+  }
+  .hotel-blog {
+    margin-bottom: 30px;
+  }
+  .master-chef ul li {
+    padding: 0 10px 0 0;
+    font-size: 14px;
+  }
+  .master-chef h2 {
+    font-size: 22px;
+  }
+  .surti {
+    margin-bottom: 30px;
+  }
+  .owl-theme .owl-dots .owl-dot.active span,
+  .owl-theme .owl-dots .owl-dot:hover span {
+    background: #bd2130;
+  }
+  .footer-about {
+    margin-bottom: 30px;
+  }
+  .westrot h2 {
+    font-size: 24px;
+  }
+  ul.Opening-hours h4 {
+    font-size: 16px;
+  }
+  .westrot h6 {
+    font-size: 30px;
+  }
+  .mollir {
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 575px) {
+  .slider-text h2 {
+    font-size: 23px;
+    line-height: 25px;
+    margin: 0px;
+  }
+  .slick-dots {
+    display: none;
+  }
+  .slider-text {
+    top: 51%;
+  }
+  .slider-text a {
+    display: none;
+  }
+  .Crepes-box ul li:before {
+    width: 120px;
+  }
+  .slick-dots {
+    display: none !important;
+  }
+  .slider-text h4 {
+    display: none;
+  }
+  .our-story {
+    margin-bottom: 50px;
+    padding: 0;
+  }
+  header nav {
+    top: -35px;
+  }
+  .master-chef {
+    margin-bottom: 50px;
+  }
+  .owl-theme .owl-nav {
+    display: none;
+  }
+  ul.Opening-hours li:before {
+    right: 113px;
+    width: 85px;
+  }
+  .ullamco-besr h2 {
+    font-size: 36px;
+  }
+  .m-ss {
+    padding: 22px 0;
+  }
+  .Crepes-box ul li {
+    font-size: 18px;
+  }
+  .Crepes-box ul li:before {
+    display: none;
+  }
+  .Crepes-box ul li span {
+    font-size: 18px;
+  }
+  .day-off h2 {
+    font-size: 30px;
+  }
+  .westrot {
+    margin-bottom: 50px;
+  }
+  .vedio-clentes {
+    display: inline-block;
+    text-align: center;
+  }
+  .colg-cheak {
+    margin-bottom: 30px;
+  }
+  #slider_main .carousel-control-next,
+  #slider_main .carousel-control-prev {
+    top: calc(50% - 25px);
+    width: 50px;
+    height: 50px;
+    margin: 0 20px;
+  }
+  footer::after {
+    background: #000;
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 991px) {
+  .hamburger {
+    top: -18px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .nav-links li {
+    position: relative;
+    margin: 0 0 0 30px;
+  }
+  .nav-links {
+    margin: 5px 20px 0 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .home_page header {
+    position: relative;
+  }
+}
+
